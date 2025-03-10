@@ -159,13 +159,14 @@ Install dependencies and start:
 npm install
 npm start
 ```
-![image](https://github.com/user-attachments/assets/ff63282d-c310-40a8-a3f4-f64bfc4c1e23)
-![image](https://github.com/user-attachments/assets/fc646ce4-53d7-4e07-9f6b-9d21c3210c5b)
+-![image](https://github.com/user-attachments/assets/ff63282d-c310-40a8-a3f4-f64bfc4c1e23)
+-![image](https://github.com/user-attachments/assets/fc646ce4-53d7-4e07-9f6b-9d21c3210c5b)
 
-![image](https://github.com/user-attachments/assets/29e0837b-420d-4843-9eae-317cf267369b)
+-![image](https://github.com/user-attachments/assets/29e0837b-420d-4843-9eae-317cf267369b)
 
-![image](https://github.com/user-attachments/assets/f1dfc677-fad3-4e81-a81d-40e8a45c806e)
-![image](https://github.com/user-attachments/assets/de5c33e6-0256-42a9-b519-d9b62b46d965)
+-![image](https://github.com/user-attachments/assets/f1dfc677-fad3-4e81-a81d-40e8a45c806e)
+-![image](https://github.com/user-attachments/assets/f6794b8f-5f5c-4dca-a6f4-3d1823f79037)
+
 
 ## Troubleshooting
 
