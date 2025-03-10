@@ -81,9 +81,7 @@ resource "aws_security_group" "backend_sg" {
   }
 }
 ```
-![image](https://github.com/user-attachments/assets/5d867d59-f087-4f02-86dd-169d0b9a8b43)
 
-![image](https://github.com/user-attachments/assets/e98b3035-3d69-466e-a410-c30e973f71af)
 
 ## Jenkins CI/CD Pipeline
 
@@ -137,7 +135,7 @@ nano .env
 ```
 Add the following variables:
 ```sh
-MONGO_URI=mongodb+srv://vika2k:Alfacbe121981@cluster0.ra3ai.mongodb.net/
+mongodb+srv://ankitalodha05:HXbLCIGpRkRg9gNn@cluster10.as960.mongodb.net/
 PORT=5000
 ```
 Start the server:
