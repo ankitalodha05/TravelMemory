@@ -1,0 +1,20 @@
+pipeline {
+    agent any
+    stages {
+        stage('Clone Repository') {
+            steps {
+                git 'https://github.com/ankitalodha05/TravelMemory.git'
+            }
+        }
+        stage('Build Frontend') {
+            steps {
+                sh 'cd frontend && npm install && npm run build'
+            }
+        }
+        stage('Deploy Frontend') {
+            steps {
+                sh 'scp -r frontend/* ubuntu@<frontend-ip>:/var/www/html/'
+            }
+        }
+    }
+}
